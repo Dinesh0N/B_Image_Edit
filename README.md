@@ -1,2 +1,2 @@
-# B_Paint_Tools
-text, Gradient, crop, clone, path and more tools
+# B Image Editor
+tools and layers
