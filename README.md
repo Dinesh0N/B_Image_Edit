@@ -1,2 +1,2 @@
-# B Image Editor
+# B Image Edit
 tools and layers
