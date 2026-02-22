@@ -1,0 +1,22 @@
+schema_version = "1.0.0"
+id = "b_image_edit"
+version = "1.0.0"
+name = "B Image Editor"
+tagline = "Text, Gradient, Crop, Clone, Layers and Selection tools for Texture/Image Paint"
+maintainer = "Dinesh007"
+type = "add-on"
+
+# Blender version requirements
+blender_version_min = "5.0.0"
+
+# License
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2024 Dinesh007"]
+
+# Optional metadata
+[permissions]
+files = "Import/export fonts and save images"
+
+
+
+
